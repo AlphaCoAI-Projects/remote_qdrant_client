@@ -1,0 +1,8 @@
+fastapi>=0.95.0
+uvicorn>=0.21.1
+pydantic>=1.10.7
+sentence-transformers>=2.2.2
+qdrant-client>=1.1.1
+PyYAML>=6.0
+torch>=2.0.0
+python-multipart>=0.0.6
