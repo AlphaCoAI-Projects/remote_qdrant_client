@@ -6,10 +6,10 @@ gemini_model_name: "gemini-1.5-flash"
 deepseek_base_url: "https://api.deepseek.com"
 deepseek_model: "deepseek-reasoner"
 qdrant_collection_name: "annual_reports_trial_13_february"
-vector_embedding_size: 3584
+vector_embedding_size: 1024
 page_no: 0
 page_text: 1
 page_table: 2
-embedding_model: "Alibaba-NLP/gte-Qwen2-7B-instruct"
+embedding_model: "intfloat/multilingual-e5-large-instruct"
 qdrant_client_url: "http://127.0.0.1:6333"
 log_dir: "./logs"
